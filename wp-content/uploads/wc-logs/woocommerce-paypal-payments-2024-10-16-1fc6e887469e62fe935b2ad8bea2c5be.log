@@ -1,0 +1,22 @@
+2024-10-16T19:57:42+00:00 DEBUG POST https://api-m.paypal.com/v1/oauth2/token?grant_type=client_credentials&response_type=client_token&intent=sdk_init&domains[]=localhost
+Response Debug ID: 8641d406584af
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_domain","error_description":"Domain format not valid"}
+
+2024-10-16T19:57:42+00:00 ERROR [Error] Unknown error while connecting to PayPal. Status code: 0.
+2024-10-16T19:57:47+00:00 DEBUG POST https://api-m.paypal.com/v1/oauth2/token?grant_type=client_credentials&response_type=client_token&intent=sdk_init&domains[]=localhost
+Response Debug ID: 91a8a811344b0
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_domain","error_description":"Domain format not valid"}
+
+2024-10-16T19:57:47+00:00 ERROR [Error] Unknown error while connecting to PayPal. Status code: 0.
