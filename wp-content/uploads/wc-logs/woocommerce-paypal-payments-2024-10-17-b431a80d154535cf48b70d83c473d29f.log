@@ -1575,3 +1575,72 @@ Response Body: {"error":"invalid_domain","error_description":"Domain format not 
 2024-10-17T03:52:36+00:00 ERROR [Error] Unknown error while connecting to PayPal. Status code: 0.
 2024-10-17T03:57:15+00:00 ERROR Cart simulation failed: Could not validate nonce.
 2024-10-17T03:57:20+00:00 ERROR Cart simulation failed: Could not validate nonce.
+2024-10-17T04:21:22+00:00 DEBUG POST https://api-m.paypal.com/v1/oauth2/token?grant_type=client_credentials&response_type=client_token&intent=sdk_init&domains[]=localhost
+Response Debug ID: eca22c5371f8f
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_domain","error_description":"Domain format not valid"}
+
+2024-10-17T04:21:22+00:00 ERROR [Error] Unknown error while connecting to PayPal. Status code: 0.
+2024-10-17T04:21:23+00:00 DEBUG POST https://api-m.paypal.com/v1/oauth2/token?grant_type=client_credentials&response_type=client_token&intent=sdk_init&domains[]=localhost
+Response Debug ID: add6f61bdaeed
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_domain","error_description":"Domain format not valid"}
+
+2024-10-17T04:21:23+00:00 ERROR [Error] Unknown error while connecting to PayPal. Status code: 0.
+2024-10-17T04:21:23+00:00 DEBUG POST https://api-m.paypal.com/v1/oauth2/token?grant_type=client_credentials&response_type=client_token&intent=sdk_init&domains[]=localhost
+Response Debug ID: 502387bf31cc2
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_domain","error_description":"Domain format not valid"}
+
+2024-10-17T04:21:23+00:00 ERROR [Error] Unknown error while connecting to PayPal. Status code: 0.
+2024-10-17T04:21:24+00:00 DEBUG POST https://api-m.paypal.com/v1/oauth2/token?grant_type=client_credentials&response_type=client_token&intent=sdk_init&domains[]=localhost
+Response Debug ID: 236b1027b46b3
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_domain","error_description":"Domain format not valid"}
+
+2024-10-17T04:21:24+00:00 ERROR [Error] Unknown error while connecting to PayPal. Status code: 0.
+2024-10-17T04:21:24+00:00 DEBUG POST https://api-m.paypal.com/v1/oauth2/token?grant_type=client_credentials&response_type=client_token&intent=sdk_init&domains[]=localhost
+Response Debug ID: 870e2816e9348
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_domain","error_description":"Domain format not valid"}
+
+2024-10-17T04:21:24+00:00 ERROR [Error] Unknown error while connecting to PayPal. Status code: 0.
+2024-10-17T04:21:25+00:00 DEBUG POST https://api-m.paypal.com/v1/oauth2/token?grant_type=client_credentials&response_type=client_token&intent=sdk_init&domains[]=localhost
+Response Debug ID: 6075c1fdcfc09
+Response: Array
+(
+    [code] => 401
+    [message] => Unauthorized
+)
+
+Response Body: {"error":"invalid_domain","error_description":"Domain format not valid"}
+
+2024-10-17T04:21:25+00:00 ERROR [Error] Unknown error while connecting to PayPal. Status code: 0.
+2024-10-17T04:21:41+00:00 ERROR Cart simulation failed: Could not validate nonce.
+2024-10-17T04:21:46+00:00 ERROR Cart simulation failed: Could not validate nonce.
+2024-10-17T04:21:49+00:00 ERROR Cart updating failed: Could not validate nonce.
