@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>digital &#8211; Lycus Art</title>
+	<atom:link href="https://daltonbreedt.github.io/lycus/product-tag/digital/feed/" rel="self" type="application/rss+xml" />
+	<link>https://daltonbreedt.github.io/lycus</link>
+	<description></description>
+	<lastBuildDate>Thu, 17 Oct 2024 03:16:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Psi &#124; 1080p &#124; Full HD &#124; Digital Drawing</title>
+		<link>https://daltonbreedt.github.io/lycus/product/psi-1080p-full-hd-digital-drawing/</link>
+					<comments>https://daltonbreedt.github.io/lycus/product/psi-1080p-full-hd-digital-drawing/#respond</comments>
+		
+		<dc:creator><![CDATA[Lycus]]></dc:creator>
+		<pubDate>Thu, 17 Oct 2024 03:05:54 +0000</pubDate>
+				<guid isPermaLink="false">https://daltonbreedt.github.io/lycus/?post_type=product#038;p=833</guid>
+
+					<description><![CDATA[A very deep discussion about language, alternative medicines, and the power of collaboration.]]></description>
+										<content:encoded><![CDATA[<h1>The story behind this piece:</h1>
+<p>I drew this piece during a very deep discussion about language, alternative medicines, and the power of collaboration.</p>
+<p>My emotions and thoughts are projected through this piece as this is what the information and context looked like in my mind&#8217;s eye.</p>
+<p>I made sure to draw this in a 1080p Full HD resolution to make it easier for those who would like to print it out.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://daltonbreedt.github.io/lycus/product/psi-1080p-full-hd-digital-drawing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
